@@ -16,11 +16,14 @@ This is my solution to the [Product preview card component challenge on Frontend
 
 ### Screenshot
 
+![pp1](https://user-images.githubusercontent.com/108998605/198753179-09889a65-7cff-40d6-b279-54104c197786.png)
+
+![Mobile](https://user-images.githubusercontent.com/108998605/198753054-860ad7da-7adf-4d5b-bef6-f029d9bdd436.png)
 
 ### Links
 
 - Solution URL: [Frontend Mentor Solution]()
-- Live Site URL: [Live Site]()
+- Live Site URL: [Live Site](https://euraphaeldev.github.io/product-preview-card/)
 ## My Process
 
 ### Built with
@@ -36,7 +39,7 @@ I learned how to position different elements, usign the properties and a little 
 
 ### Useful resources
 
-[w3 Schools - Media Query](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+[W3 Schools - Media Query](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
 ## Author
 
