@@ -9,7 +9,7 @@
 .main-container {
     max-width: 1440px;
     height: 100vh;
-    background: linear-gradient(136deg, rgb(2, 122, 72) 0%, rgb(67, 158, 112) 100%);;
+    background: linear-gradient(136deg, rgb(2, 122, 72) 0%, rgb(67, 158, 112) 100%);
     margin: 0 auto;
     display: flex;
     justify-content: center;
